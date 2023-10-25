@@ -1,0 +1,57 @@
+{
+  "uuid": "9588261e-16b4-49cd-9298-dacd5385a4f0",
+  "historyId": "cec919b036ca3fc6f95738c0f24a163e",
+  "testCaseId": "1798b6e517faddc62daf95b99bb39aef",
+  "fullName": "TestProject1:TestProject1.Tests+MyTestClass.MyTestMethod()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "MAKSIM"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1"
+    },
+    {
+      "name": "testMethod",
+      "value": "MyTestMethod"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests+MyTestClass"
+    }
+  ],
+  "links": [],
+  "name": "MyTestMethod",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "MyTestMethod"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "badbdf0c49464a4fa3e148045962ab48-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1698258654278,
+  "stop": 1698258654280
+}

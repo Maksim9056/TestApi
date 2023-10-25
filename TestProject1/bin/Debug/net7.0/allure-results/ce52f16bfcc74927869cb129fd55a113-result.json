@@ -1,0 +1,58 @@
+{
+  "uuid": "77415869-4de4-46a3-a040-09b3b3f45823",
+  "historyId": "cec919b036ca3fc6f95738c0f24a163e",
+  "testCaseId": "1798b6e517faddc62daf95b99bb39aef",
+  "fullName": "TestProject1:TestProject1.Tests+MyTestClass.MyTestMethod()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "MAKSIM"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1"
+    },
+    {
+      "name": "testMethod",
+      "value": "MyTestMethod"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests+MyTestClass"
+    }
+  ],
+  "links": [],
+  "name": "MyTestMethod",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Запрос вернул некорректные данные\r\n  Expected: True\r\n  But was:  False\r\n",
+    "trace": "   at TestProject1.Tests.MyTestClass.MyTestMethod() in C:\\Users\\Максим\\source\\repos\\TestProject1\\TestProject1\\UnitTest1.cs:line 55\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "c0fdd9622c2c4dc295777abf733c1827-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1698260469960,
+  "stop": 1698260470600
+}
